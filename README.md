@@ -1,3 +1,7 @@
+# Archived
+
+Those are deprecated. Please look into [PhilipVinc/Lectures](https://github.com/PhilipVinc/Lectures)
+
 # NetKet-lectures
 
 A collection of lectures on NetKet
